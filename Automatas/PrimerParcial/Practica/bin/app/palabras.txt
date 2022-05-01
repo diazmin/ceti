@@ -1,0 +1,7 @@
+saludar
+despedir
+llamar
+ver
+fecha
+sumar
+enviar correo
